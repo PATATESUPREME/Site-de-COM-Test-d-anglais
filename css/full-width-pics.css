@@ -22,6 +22,11 @@ body {
     padding: 100px 0;
 }
 
+.image-bg-etudiant-height {
+    background: url('https://pixabay.com/static/uploads/photo/2015/09/09/22/03/keyboard-933680_960_720.jpg') no-repeat center center scroll;
+    padding: 100px 0;
+}
+
 .image-bg-fixed-height {
 	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
     height: 450px;
