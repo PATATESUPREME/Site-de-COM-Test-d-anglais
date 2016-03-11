@@ -107,3 +107,7 @@ td, th {
 table, th, td {
     border: 1px solid black;
 }
+
+.soustitre-site {
+    color: white;
+}
